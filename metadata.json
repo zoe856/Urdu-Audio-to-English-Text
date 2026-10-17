@@ -1,0 +1,6 @@
+{
+  "name": "BolTranslate: Urdu Voice to English",
+  "description": "Convert Urdu voice notes, audio files, and microphone speech into crystal-clear English with perfect transcription, Roman Urdu, and audio playback.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
